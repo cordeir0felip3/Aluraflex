@@ -1,0 +1,61 @@
+body{
+    color:rgb(96, 199, 224);
+    background:black;
+    margin: 0px;
+    
+}
+
+header {
+    border-bottom: solid 3px rgb(96, 199, 224);
+    padding: 15px;
+    font-size: 32px;
+    color:Orangered;
+    font-family: "Anton SC", sans-serif;
+
+}
+
+section {
+    background:black;
+    padding-bottom: 1px;
+    padding-top: 10px;
+    display:list-item;
+    justify-content:right;
+}
+
+div {
+    margin-right: 30px
+}
+
+.chamada-texto{
+    margin-right: 20px;
+}
+
+/* código omitido */
+
+section {
+    background:black;
+    padding-bottom: 1px;
+    padding-top: 10px;
+    display: list-item;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+}
